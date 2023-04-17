@@ -31,3 +31,15 @@ button {
     background-color: pink;
     border: 1px solid white
 }
+
+img {
+    width: 200px;
+    height: 200px;
+    border: 5px solid white;
+    justify-content: center;
+    box-shadow: 3px 3px 15px;
+}
+
+img:hover {
+    border: 5px solid black;
+}
