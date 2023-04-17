@@ -46,6 +46,7 @@ img:hover {
 
 table, th, td {
     border: 1px solid;
+    padding: 5px;
     margin: auto;
     font-size: x-large;
 }
