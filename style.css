@@ -43,3 +43,13 @@ img {
 img:hover {
     border: 5px solid black;
 }
+
+table, th, td {
+    border: 1px solid;
+    margin: auto;
+    font-size: x-large;
+}
+
+tr:hover {
+    background-color: rgb(255, 0, 0);
+}
