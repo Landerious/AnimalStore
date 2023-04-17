@@ -25,3 +25,9 @@ form {
 ul {
     list-style: none;
 }
+
+button {
+    color: white;
+    background-color: pink;
+    border: 1px solid white
+}
